@@ -1,1 +1,3 @@
-Edit file 
+This is the file I added form GitHub.com 
+
+This is more text I am writing on GitHub.com
