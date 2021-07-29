@@ -1,7 +1,6 @@
 package day3;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class ListPractice {
 
