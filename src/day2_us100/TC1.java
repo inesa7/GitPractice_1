@@ -1,4 +1,4 @@
-package us100;
+package day2_us100;
 
 public class TC1 {
 
