@@ -8,5 +8,7 @@ public class Movie {
     // after discussion 22 min
 
     // watching 35 min
+    // husband also watched
+
 
 }
