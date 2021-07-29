@@ -7,4 +7,6 @@ public class Movie {
     // watching 30 min
     // after discussion 22 mins
 
+    // this is my stuff from the master
+
 }
