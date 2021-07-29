@@ -3,3 +3,5 @@ This is the file I added from GitHub.com
 This is more text I am writing on GitHub.com
 
 This is more stuff
+
+This is cool commit from local
