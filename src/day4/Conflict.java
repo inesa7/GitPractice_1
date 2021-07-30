@@ -6,5 +6,6 @@ public class Conflict {
     // this is my final version
     // this is master branch content
     //master collection
+    //more work on collection2
 
 }
